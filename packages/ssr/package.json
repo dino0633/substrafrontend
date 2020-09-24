@@ -7,7 +7,7 @@
         "@emotion/styled": "10.0.27",
         "babel-runtime": "6.26.0",
         "cookie-parse": "0.4.0",
-        "copy-to-clipboard": "3.2.0",
+        "copy-to-clipboard": "3.3.1",
         "date-fns": "2.9.0",
         "decimal.js": "10.2.0",
         "decode-uri-component": "0.2.0",
