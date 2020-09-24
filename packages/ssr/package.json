@@ -104,7 +104,7 @@
         "http": "0.0.0",
         "https": "1.0.0",
         "koa": "2.11.0",
-        "koa-compress": "3.0.0",
+        "koa-compress": "5.0.1",
         "koa-cookie": "1.0.0",
         "koa-helmet": "5.2.0",
         "koa-mount": "4.0.0",
