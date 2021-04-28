@@ -1,0 +1,23 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: react-spinners
+    versions:
+    - 0.10.4
+  - dependency-name: urijs
+    versions:
+    - 1.19.5
+  - dependency-name: "@babel/plugin-proposal-throw-expressions"
+    versions:
+    - 7.12.1
+  - dependency-name: webpack
+    versions:
+    - 5.3.2
+  - dependency-name: elliptic
+    versions:
+    - 6.5.3
